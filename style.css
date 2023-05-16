@@ -1,0 +1,38 @@
+* {
+
+  margin: 10px;
+}
+
+h1 {
+   text-align: center;
+}
+
+
+
+.block1 {
+    background-color: #5ECBFF;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.block2 {
+    background-color: #D4A9B2;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.block3 {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.img {
+    background: white;
+    height: 200px;
+    width: 200px;
+
+}
